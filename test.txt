@@ -1,0 +1,42 @@
+"无法找到“XXX.exe”的调试信息，或者调试信息不匹配：     https://blog.csdn.net/chinabinlang/article/details/37591985
+
+debug assertion failed!
+https://www.cnblogs.com/jack-jia-moonew/p/4262536.html
+
+
+VS2013+Qt环境,库引入与调用方法
+https://blog.csdn.net/lyz769109884/article/details/52931760
+
+手把手教你：【史上最全】C++开发环境搭建：win732位下VS2010+Boost_1_53_0+Qt5.2+MySql搭建
+https://blog.csdn.net/qingyuanluofeng/article/details/39830245
+
+VS无法打开源文件及无法打开链接库文件的解决方法
+https://blog.csdn.net/qq_28779503/article/details/70599653
+
+C++调试方法
+https://blog.csdn.net/qq_15947787/article/details/53311567
+
+QT在Windows下的入口点函数
+http://www.360doc.com/content/11/0213/18/510771_92755542.shtml
+
+内存泄露与内存溢出处理
+https://blog.csdn.net/wenzhou1219/article/details/50866467
+
+mysql连接器
+https://dev.mysql.com/downloads/connector/c/
+
+QT中怎样连接MYsql数据库,远程连接数据库等
+https://wenku.baidu.com/view/c64f682ca300a6c30c229f5d.html
+
+
+VS使用qtwebview
+https://blog.csdn.net/u010216743/article/details/77848018
+
+
+
+qwidget: must construct a qapplication before a qpaintdevice
+这个地方要注意QVTKWidget只能用release版，其他Qt和VTK库用对应的Debug或者Release版本即可
+http://tieba.baidu.com/p/4213379901
+
+生成moc_xxx.cpp文件（没事将头文件、cpp文件多编译几遍）
+https://blog.csdn.net/luchengbiao/article/details/81127675
